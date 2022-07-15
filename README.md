@@ -1,3 +1,6 @@
+NOTE: You can find Matlab codes and Simulink models under q1, q2 and q3 folders.
+==========
+
 Question 1
 ==========
 
